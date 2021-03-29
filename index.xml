@@ -35,15 +35,6 @@
     </item>
     
     <item>
-      <title>Ejemplo Shortcodes</title>
-      <link>https://josefahg.github.io/docs/ejemplo/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://josefahg.github.io/docs/ejemplo/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
-    </item>
-    
-    <item>
       <title>Familias según concepto</title>
       <link>https://josefahg.github.io/docs/post-4/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -53,12 +44,12 @@
     </item>
     
     <item>
-      <title>Ejemplos Markdown</title>
-      <link>https://josefahg.github.io/docs/markdown/</link>
+      <title>Entrega BARE LIGHT</title>
+      <link>https://josefahg.github.io/docs/post-5/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://josefahg.github.io/docs/markdown/</guid>
-      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+      <guid>https://josefahg.github.io/docs/post-5/</guid>
+      <description>Entrega grupal, proyecto BARE LIGHT.</description>
     </item>
     
   </channel>
